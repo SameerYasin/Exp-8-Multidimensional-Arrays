@@ -18,4 +18,9 @@
 
 <img width="481" height="311" alt="image" src="https://github.com/user-attachments/assets/22137091-88f8-419b-8b85-43d9914cdac8" />
 
+# Code for transpose of two matrix.cpp
+
+<img width="420" height="387" alt="image" src="https://github.com/user-attachments/assets/52046eba-f9b0-4a20-bb1c-0432f1790f8f" />
+
+
 
