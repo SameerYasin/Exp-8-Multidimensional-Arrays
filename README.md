@@ -14,3 +14,8 @@
 
 <img width="467" height="435" alt="image" src="https://github.com/user-attachments/assets/d0cdbbad-374b-4eb2-ad47-e03afd3b3513" />
 
+# C++ Program to Add Diagonal Elements of a Matrix.cpp
+
+<img width="481" height="311" alt="image" src="https://github.com/user-attachments/assets/22137091-88f8-419b-8b85-43d9914cdac8" />
+
+
