@@ -22,5 +22,9 @@
 
 <img width="420" height="387" alt="image" src="https://github.com/user-attachments/assets/52046eba-f9b0-4a20-bb1c-0432f1790f8f" />
 
+# Compare Elements of First Row and Second Row
+
+<img width="593" height="367" alt="image" src="https://github.com/user-attachments/assets/02b80bc3-8e7c-4053-ba0c-a8508c7d32a9" />
+
 
 
